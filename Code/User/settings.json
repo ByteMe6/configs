@@ -1,0 +1,7 @@
+{
+    "workbench.activityBar.location": "top",
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "icons",
+    "editor.accessibilitySupport": "off",
+    "files.autoSave": "onFocusChange"
+}

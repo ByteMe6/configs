@@ -1,0 +1,79 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "b363683a34da76e4ebb6975f65747a4e6b3717a9fcb8e315558fbd4129732220",
+    "telemetry.devDeviceId": "8d3fc30d-ac44-422b-903c-ea730a2903c5",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/byteme6/Docs/krovato-react"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1755420523686"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/byteme6/Docs/krovato-react": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1755420523686": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/byteme6/Docs/krovato-react",
+            "backupPath": "/home/byteme6/.config/Code/Backups/bdf1d698b73f56f0acd86a4c95a83864",
+            "uiState": {
+                "mode": 1,
+                "x": 22,
+                "y": 80,
+                "width": 1236,
+                "height": 698
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#282c34",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#282c34",
+            "editorBackground": "#282c34",
+            "titleBarBackground": "#21252b",
+            "activityBarBackground": "#333842",
+            "sideBarBackground": "#21252b",
+            "statusBarBackground": "#21252b",
+            "statusBarNoFolderBackground": "#21252b"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 170,
+            "workspaces": {
+                "211d9a0b03889a13432e87892edbc53f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,6 @@
+2025/08/21-13:56:38.714 42f6d Creating DB /home/byteme6/.config/vesktop/sessionData/WebStorage/2/IndexedDB/indexeddb.leveldb since it was missing.
+2025/08/21-13:56:38.715 42f6d Reusing MANIFEST /home/byteme6/.config/vesktop/sessionData/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/08/21-13:56:38.716 42f71 Level-0 table #5: started
+2025/08/21-13:56:38.717 42f71 Level-0 table #5: 712 bytes OK
+2025/08/21-13:56:38.717 42f71 Delete type=0 #3
+2025/08/21-13:56:38.717 42f71 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

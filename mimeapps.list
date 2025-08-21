@@ -1,0 +1,7 @@
+[Added Associations]
+video/mp4=firefox.desktop;
+application/x-shellscript=sublime_text.desktop;
+image/png=feh.desktop;
+
+[Default Applications]
+x-scheme-handler/discord=vesktop.desktop

@@ -1,0 +1,6 @@
+2025-08-17 11:48:42.697 [info] update#setState idle
+2025-08-17 11:49:12.698 [info] update#setState checking for updates
+2025-08-17 11:49:12.769 [info] update#setState idle
+2025-08-17 11:49:39.065 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
+2025-08-17 12:20:07.098 [info] Extension host with pid 23571 exited with code: 0, signal: unknown.
+2025-08-17 12:20:07.183 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 23552]: crashed with code 15 and reason 'killed'

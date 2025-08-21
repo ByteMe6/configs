@@ -1,0 +1,30 @@
+2025-08-17 12:20:15.819 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-08-17 12:20:15.819 [info] Using the Electron fetcher.
+2025-08-17 12:20:15.819 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-08-17 12:20:15.819 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-08-17 12:20:15.819 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-08-17 12:20:15.902 [info] Logged in as ByteMe6
+2025-08-17 12:20:16.731 [info] Got Copilot token for ByteMe6
+2025-08-17 12:20:16.743 [info] activationBlocker from 'languageModelAccess' took for 629ms
+2025-08-17 12:20:16.844 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-08-17 12:20:16.844 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-08-17 12:20:16.855 [info] Registering default platform agent...
+2025-08-17 12:20:16.855 [info] activationBlocker from 'conversationFeature' took for 761ms
+2025-08-17 12:20:17.177 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-08-17 12:20:17.274 [info] Fetched model metadata in 1138ms 18c02da8-e316-4223-90e7-5ce5062cc017
+2025-08-17 12:25:24.497 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-08-17 12:25:24.497 [info] Using the Electron fetcher.
+2025-08-17 12:25:24.497 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-08-17 12:25:24.497 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-08-17 12:25:24.497 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-08-17 12:25:24.778 [info] Logged in as ByteMe6
+2025-08-17 12:25:25.415 [error] GithubCodeSearchService.getRemoteIndexState(tate-t/krovato-react). Failed to fetch indexing status. Response: 404. {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+2025-08-17 12:25:25.629 [info] Got Copilot token for ByteMe6
+2025-08-17 12:25:25.646 [info] activationBlocker from 'languageModelAccess' took for 972ms
+2025-08-17 12:25:25.726 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-08-17 12:25:25.726 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-08-17 12:25:25.746 [info] Registering default platform agent...
+2025-08-17 12:25:25.746 [info] activationBlocker from 'conversationFeature' took for 1074ms
+2025-08-17 12:25:25.774 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-08-17 12:25:25.985 [error] GithubCodeSearchService.getRemoteIndexState(tate-t/krovato-react). Failed to fetch indexing status. Response: 404. {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+2025-08-17 12:25:26.043 [info] Fetched model metadata in 1363ms 3af5ab43-9b8f-4f62-b4c1-ad80a7730c8d

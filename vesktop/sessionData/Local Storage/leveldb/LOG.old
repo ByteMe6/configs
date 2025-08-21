@@ -1,0 +1,32 @@
+2025/08/21-11:47:33.560 42f6d Creating DB /home/byteme6/.config/vesktop/sessionData/Local Storage/leveldb since it was missing.
+2025/08/21-11:47:33.575 42f6d Reusing MANIFEST /home/byteme6/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/08/21-11:50:50.277 42f6f Level-0 table #5: started
+2025/08/21-11:50:50.278 42f6f Level-0 table #5: 43263 bytes OK
+2025/08/21-11:50:50.280 42f6f Delete type=0 #3
+2025/08/21-11:55:50.281 42f6f Level-0 table #7: started
+2025/08/21-11:55:50.288 42f6f Level-0 table #7: 31797 bytes OK
+2025/08/21-11:55:50.290 42f6f Delete type=0 #4
+2025/08/21-13:07:03.040 42f6f Level-0 table #9: started
+2025/08/21-13:07:03.042 42f6f Level-0 table #9: 30533 bytes OK
+2025/08/21-13:07:03.044 42f6f Delete type=0 #6
+2025/08/21-13:27:19.705 42f6d Level-0 table #11: started
+2025/08/21-13:27:19.714 42f6d Level-0 table #11: 34597 bytes OK
+2025/08/21-13:27:19.715 42f6d Delete type=0 #8
+2025/08/21-13:55:55.096 42f6d Level-0 table #13: started
+2025/08/21-13:55:55.105 42f6d Level-0 table #13: 46947 bytes OK
+2025/08/21-13:55:55.105 42f6d Delete type=0 #10
+2025/08/21-13:56:42.166 42f6d Level-0 table #15: started
+2025/08/21-13:56:42.172 42f6d Level-0 table #15: 41420 bytes OK
+2025/08/21-13:56:42.173 42f6d Delete type=0 #12
+2025/08/21-13:56:42.173 42f6d Compacting 4@0 + 1@1 files
+2025/08/21-13:56:42.175 42f6d Generated table #16@0: 25 keys, 28626 bytes
+2025/08/21-13:56:42.175 42f6d Compacted 4@0 + 1@1 files => 28626 bytes
+2025/08/21-13:56:42.175 42f6d compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/21-13:56:42.175 42f6d Delete type=2 #13
+2025/08/21-13:56:42.175 42f6d Delete type=2 #11
+2025/08/21-13:56:42.176 42f6d Delete type=2 #7
+2025/08/21-13:56:42.176 42f6d Delete type=2 #15
+2025/08/21-13:56:42.176 42f6d Delete type=2 #9
+2025/08/21-13:59:15.971 42f6f Level-0 table #18: started
+2025/08/21-13:59:15.977 42f6f Level-0 table #18: 49571 bytes OK
+2025/08/21-13:59:15.980 42f6f Delete type=0 #14

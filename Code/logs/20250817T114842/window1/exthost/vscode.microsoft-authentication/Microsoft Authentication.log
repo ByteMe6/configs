@@ -1,0 +1,34 @@
+2025-08-17 11:48:51.573 [info] Acquired MSAL enablement value from default. Value: false
+2025-08-17 11:48:51.591 [info] [getSessions] [all] starting
+2025-08-17 11:48:51.591 [info] [getSessions] [all] returned 0 session(s)
+2025-08-17 11:48:51.592 [info] [getSessions] [all] starting
+2025-08-17 11:48:51.592 [info] [getSessions] [all] returned 0 session(s)
+2025-08-17 11:48:51.592 [info] [getSessions] [all] starting
+2025-08-17 11:48:51.592 [info] [getSessions] [all] returned 0 session(s)
+2025-08-17 11:48:51.592 [info] [getSessions] [all] starting
+2025-08-17 11:48:51.592 [info] [getSessions] [all] returned 0 session(s)
+2025-08-17 11:48:51.597 [info] [getSessions] [email offline_access openid profile] starting
+2025-08-17 11:48:51.597 [warning] [Sun, 17 Aug 2025 08:48:51 GMT] : [aebc6443-996d-45c2-90f0-388ff96faa56] : @azure/msal-node@2.16.2 : Warning - NativeBroker implementation was provided but the broker is unavailable.
+2025-08-17 11:48:54.882 [info] [getSessions] [email offline_access openid profile] returned 0 session(s)
+2025-08-17 11:49:20.952 [info] [getSessions] [all] starting
+2025-08-17 11:49:20.952 [info] [getSessions] [all] returned 0 session(s)
+2025-08-17 11:49:39.867 [info] [getSessions] [all] starting
+2025-08-17 11:49:39.867 [info] [getSessions] [all] returned 0 session(s)
+2025-08-17 11:49:40.367 [info] [getSessions] [all] starting
+2025-08-17 11:49:40.367 [info] [getSessions] [all] returned 0 session(s)
+2025-08-17 11:49:42.431 [info] [getSessions] [all] starting
+2025-08-17 11:49:42.431 [info] [getSessions] [all] returned 0 session(s)
+2025-08-17 11:50:11.554 [info] [getSessions] [all] starting
+2025-08-17 11:50:11.554 [info] [getSessions] [all] returned 0 session(s)
+2025-08-17 11:50:11.693 [info] [getSessions] [all] starting
+2025-08-17 11:50:11.693 [info] [getSessions] [all] returned 0 session(s)
+2025-08-17 11:50:11.878 [info] [getSessions] [all] starting
+2025-08-17 11:50:11.878 [info] [getSessions] [all] returned 0 session(s)
+2025-08-17 11:50:12.367 [info] [getSessions] [all] starting
+2025-08-17 11:50:12.367 [info] [getSessions] [all] returned 0 session(s)
+2025-08-17 11:50:12.919 [info] [getSessions] [all] starting
+2025-08-17 11:50:12.919 [info] [getSessions] [all] returned 0 session(s)
+2025-08-17 11:50:13.685 [info] [getSessions] [all] starting
+2025-08-17 11:50:13.685 [info] [getSessions] [all] returned 0 session(s)
+2025-08-17 11:50:28.685 [info] [getSessions] [all] starting
+2025-08-17 11:50:28.685 [info] [getSessions] [all] returned 0 session(s)

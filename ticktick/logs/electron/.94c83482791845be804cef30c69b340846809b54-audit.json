@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 7
+    },
+    "auditLog": "/home/byteme6/.config/ticktick/logs/electron/.94c83482791845be804cef30c69b340846809b54-audit.json",
+    "files": [
+        {
+            "date": 1755619603922,
+            "name": "/home/byteme6/.config/ticktick/logs/electron/electron-2025-08-19.log",
+            "hash": "20ea0f366bff36f5b0cd9f9df1c95180"
+        },
+        {
+            "date": 1755688903828,
+            "name": "/home/byteme6/.config/ticktick/logs/electron/electron-2025-08-20.log",
+            "hash": "d502e27ff321d84d8333cabc564812c1"
+        }
+    ]
+}
